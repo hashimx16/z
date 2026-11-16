@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Zeenat Lab – Review</title>
+<style>body{font-family:system-ui,sans-serif;margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:#fff;color:#1E4FA3;text-align:center}
+h1{font-size:22px;margin:0 0 8px}p{color:#555;margin:0}</style></head>
+<body><div id="msg"><h1>Zeenat Lab &amp; Diagnostic Centre</h1><p>Opening review page…</p></div>
+<script>
+var id = location.pathname.split('/').filter(Boolean).pop();
+fetch('links.txt?' + Date.now()).then(function(r){return r.text();}).then(function(t){
+  var url = '';
+  t.split(/\r?\n/).forEach(function(line){
+    var m = line.match(/^\s*(\d+)\s*=\s*(\S+)/);
+    if (m && ('0'+parseInt(m[1],10)).slice(-2) === ('0'+parseInt(id,10)).slice(-2)) url = m[2];
+  });
+  if (url.indexOf('http') === 0) location.replace(url);
+  else document.getElementById('msg').innerHTML = '<h1>Zeenat Lab &amp; Diagnostic Centre</h1><p>Coming soon. Thank you!</p>';
+}).catch(function(){ document.getElementById('msg').innerHTML = '<h1>Zeenat Lab</h1><p>Please try again in a moment.</p>'; });
+</script></body></html>

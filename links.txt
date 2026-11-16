@@ -1,0 +1,35 @@
+# ZEENAT LAB REVIEW LINKS
+# Paste each branch's Google review link after the = sign. One line per standee.
+# Example: 07 = https://search.google.com/local/writereview?placeid=XXXX   (Gulberg)
+# You can write the branch name after the link, separated by a space.
+
+01 = 
+02 = 
+03 = 
+04 = 
+05 = 
+06 = 
+07 = 
+08 = 
+09 = 
+10 = 
+11 = 
+12 = 
+13 = 
+14 = 
+15 = 
+16 = 
+17 = 
+18 = 
+19 = 
+20 = 
+21 = 
+22 = 
+23 = 
+24 = 
+25 = 
+26 = 
+27 = 
+28 = 
+29 = 
+30 = 
