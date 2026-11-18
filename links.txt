@@ -3,27 +3,27 @@
 # Example: 07 = https://search.google.com/local/writereview?placeid=XXXX   (Gulberg)
 # You can write the branch name after the link, separated by a space.
 
-01 = 
-02 = 
-03 = 
-04 = 
-05 = 
-06 = 
-07 = 
-08 = 
-09 = 
-10 = 
-11 = 
-12 = 
-13 = 
-14 = 
-15 = 
-16 = 
-17 = 
-18 = 
-19 = 
-20 = 
-21 = 
+01 = https://search.google.com/local/writereview?placeid=ChIJ33krFOwrHzkR4Oya391wCNs&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+02 = https://search.google.com/local/writereview?placeid=ChIJ7Z7yYgBTGDkRz32o0dzde6Y&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+03 = https://search.google.com/local/writereview?placeid=ChIJhWQgEJcDHzkRTy2KklDRBAs&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+04 = https://search.google.com/local/writereview?placeid=ChIJ41IIG8QFGTkR647kkC7-Kt8&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+05 = https://search.google.com/local/writereview?placeid=ChIJGSWIxPynIjkRQQHiV3lTqzY&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+06 = https://search.google.com/local/writereview?placeid=ChIJt_VhSsgLJzkRl2FtF2LbWbc&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+07 = https://search.google.com/local/writereview?placeid=ChIJyRbQViYFGTkR4YvswTcEc1o&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+08 = https://search.google.com/local/writereview?placeid=ChIJoakj2H8dGTkRU0-AW2QYLM0&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+09 = https://search.google.com/local/writereview?placeid=ChIJ9-gbe0EFGTkRKhol49tkaPw&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+10 = https://search.google.com/local/writereview?placeid=ChIJ9-gbe0EFGTkRKhol49tkaPw&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+11 = https://search.google.com/local/writereview?placeid=ChIJCfn1F2ADGTkRzO-Rgj822vw&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+12 = https://search.google.com/local/writereview?placeid=ChIJ2eiVh7HbITkRj06XtCh728M&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+13 = https://search.google.com/local/writereview?placeid=ChIJ9RbFgjEPGTkR2lVGyw4akik&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+14 = https://search.google.com/local/writereview?placeid=ChIJiZZ_hQoHGTkRftp3hK1TE_M&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+15 = https://search.google.com/local/writereview?placeid=ChIJuRVYdFH_GDkRvypBjjE1ygM&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+16 = https://search.google.com/local/writereview?placeid=ChIJPY6PqToFGTkRnn0NXHNU7Is&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+17 = https://search.google.com/local/writereview?placeid=ChIJIUzbk5AFGTkRlcCD4-fgT-I&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+18 = https://search.google.com/local/writereview?placeid=ChIJbQt367kPGTkR2MdOHSk8Cmk&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+19 = https://search.google.com/local/writereview?placeid=ChIJw6vReBYPGTkRqhVId66cWqM&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+20 = https://search.google.com/local/writereview?placeid=ChIJYW-2SDj9GDkRThtisr0IvSM&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
+21 = https://search.google.com/local/writereview?placeid=ChIJqxhCRSMYJzkRBzP3VTvDHWk&source=g.page.m.ia._&laa=nmx-review-solicitation-ia2
 22 = 
 23 = 
 24 = 
